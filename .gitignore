@@ -1,4 +1,5 @@
 # .
+.svn/
 /eclipse-build
 /classes
 **/build
